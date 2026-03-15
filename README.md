@@ -12,6 +12,8 @@ Interaktivní analytický dashboard maloobchodního prodeje alkoholu ve státě 
 
 ![Sales Overview](screenshots/sales_overview.png)
 
+*Ukázka dashboardu — maloobchodní prodej alkoholu ve státě Iowa, 2023–2025*
+
 ![Dashboard](screenshots/iowa_alcohol_retail.gif)
 
 ---
