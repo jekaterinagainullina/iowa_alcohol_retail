@@ -8,7 +8,7 @@ Interaktivní analytický dashboard maloobchodního prodeje alkoholu ve státě 
 
 - *Tržní podíl*: Společnost Diageo ovládá 20 % trhu
 
-![Stáhnout .pbix file](https://drive.google.com/file/d/1mvvEK9WqH8Hb118glqic3K7snPPkT9_C/view?usp=drive_link)
+[Stáhnout .pbix file](https://drive.google.com/file/d/1mvvEK9WqH8Hb118glqic3K7snPPkT9_C/view?usp=drive_link)
 
 ![Sales Overview](screenshots/sales_overview.png)
 
